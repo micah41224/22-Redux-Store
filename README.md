@@ -12,6 +12,10 @@ HTML, CSS, Javascript, React, Redux
 
 https://github.com/micah41224/22-Redux-Store
 
+## Link to deployed application on Heroku:
+
+https://mike-22-redux-store.herokuapp.com/
+
 ## Screenshot of final page:
 
 ![Completed Application Page](/assets/images/Redux-store-final-SS.png)
